@@ -1,4 +1,4 @@
-**Skrip Batch untuk Mencetak Gambar**
+**Batch Script for Printing Imagesr**
 
 **Deskripsi:**
 Skrip ini menjalankan program pencetakan gambar Python, secara otomatis menangani argumen untuk input file.
